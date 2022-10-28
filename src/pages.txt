@@ -8,4 +8,9 @@ Located submit button
 
 Created HomePage.java
 Located logOut button
+
+created login page
+located username box
+located password box
+located stepDefinition
 ...
