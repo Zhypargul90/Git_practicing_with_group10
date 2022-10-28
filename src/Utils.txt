@@ -1,1 +1,2 @@
 Here I will store important tools
+My coworcer added new methods and my manager aproved and merged into master
