@@ -2,3 +2,5 @@ I will store locators for each pages
 
 created logout page
 located logout button
+
+Created New HomePage
