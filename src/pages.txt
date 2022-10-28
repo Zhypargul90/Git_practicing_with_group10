@@ -1,16 +1,4 @@
 I will store locators for each pages
 
-Created the LoginPage.java :
-Located usernameBox
-Located passwordbox
-Located submit button
-
-
-Created HomePage.java
-Located logOut button
-
-created login page
-located username box
-located password box
-located stepDefinition
-...
+created logout page
+located logout button
