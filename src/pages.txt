@@ -4,4 +4,8 @@ Created the LoginPage.java :
 Located usernameBox
 Located passwordbox
 Located submit button
+
+
+Created HomePage.java
+Located logOut button
 ...
